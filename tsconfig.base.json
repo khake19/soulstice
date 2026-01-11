@@ -18,7 +18,7 @@
     "target": "es2022",
     "customConditions": ["@soulstice/source"],
     "paths": {
-      "@soulstice/ui": ["packages/ui/src/index.ts"]
+      "@soulstice/ui": ["./packages/ui/src/index.ts"]
     }
   }
 }
